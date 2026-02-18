@@ -1,0 +1,14 @@
+# Dataset folder
+data/
+
+# Model weights
+*.pth
+
+# Compressed files
+*.tar.gz
+
+# Python cache
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
